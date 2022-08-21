@@ -1,7 +1,8 @@
 #include<iostream>
 #include<string>
 #include "ArrayBag.h"
-using std::string, std::cout, std::endl;;
+using std::string, std::cout, std::endl;
+// test delete me 
 int main(){
 
 ArrayBag<string> bag;
